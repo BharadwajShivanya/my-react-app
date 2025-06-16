@@ -27,4 +27,4 @@ jobs:
     #   run: npm test -- --watchAll=false
 
     - name: Build project
-      run: npm run build-only
+      run: npm run build
